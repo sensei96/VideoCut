@@ -7,8 +7,6 @@ This application requires Python. I’m using Python version **3.11.6**.
 After installing Python on your computer, install the required dependencies by running the following command:
 
 pip install -r requirement.txt
-
-+
 ### How to Use
 
 1. Run the script `video.py`.
