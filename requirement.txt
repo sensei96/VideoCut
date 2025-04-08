@@ -1,0 +1,7 @@
+tk
+scenedetect
+moviepy
+decorator
+numpy
+requests
+tqdm
